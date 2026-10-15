@@ -1,0 +1,6 @@
+{
+  "name": "Last Survivor",
+  "description": "3D Survival Shooter offline game on Android with tactical combat, weapon arsenal, waves, and upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
